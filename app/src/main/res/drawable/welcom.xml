@@ -1,0 +1,12 @@
+<!-- res/drawable/background_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/> <!-- Background color -->
+    <corners android:radius="16dp"/> <!-- Rounded corners -->
+    <stroke
+        android:width="0.8dp"
+        android:color="#000000"/>
+    <padding
+        android:top="20dp"
+        android:bottom="20dp"
+        /> <!-- Border color -->
+</shape>
