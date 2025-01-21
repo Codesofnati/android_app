@@ -1,21 +1,17 @@
-package com.example.health;
+package com.example.health.Mukera;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
-import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.ListView;
-import android.widget.RadioButton;
-import android.widget.RadioGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
+
+import com.example.health.R;
 
 public class Dait_and_Fitness extends AppCompatActivity {
     private TextView textDiet, salad;
@@ -24,7 +20,6 @@ public class Dait_and_Fitness extends AppCompatActivity {
     private LinearLayout fitnessLayout;
     ListView lvDiet;
     String[] array= {"salad", "fruits", "vegetables"} ;
-    // change 1
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

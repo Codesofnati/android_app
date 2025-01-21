@@ -1,5 +1,286 @@
 <resources>
-    <string name="app_name">health</string>
+    <string name="app_name">Health and Fittness</string>
+    <string name="abs1">"Grab yourself an ab wheel and kneel on the floor. Keep the wheel dead-center beneath your shoulders, tighten your abs, and roll forward until you lose tension at your core. Now roll back into the starting position. Continue this process until you feel like you can’t perform the exercise without breaking form. You’ll feel the burn from this one right away, and that’s a good thing.\n\n
+        Muscles worked: rectus abdominis, obliques, erector spinae
+Equipment needed: ab wheel, exercise mat (optional)
+Variation/Alternate Exercise: Plank Walk Outs"</string>
+
+    <string name="abs2">"You’ll need a “slam” ball for this one, as it brings more bounce than your standard medicine ball (which brings no bounce at all). Keeping your knees at a slight bend, extend your arms and lift the ball directly over your head. Next, rise onto the balls of your feet, employing your core muscles as you slam the ball toward the ground, bending forward at the waist. Catch the ball as it bounces back up and repeat the motion. Your working not just the abs, but your shoulders as well.\n\n
+        Muscles worked: rectus abdominis, deltoids, biceps, triceps, lats, glutes, quads, hamstring, calves
+Equipment needed: medicine ball
+Variation/Alternate Exercise: Battle rope slams"</string>
+    <string name="abs3">
+The thing with basic planks is that your body adjusts to them rather quickly, so you should incorporate variables for maximum yield. One way to achieve this is by performing a three-point plank, which involves removing a contact point from the floor. Get into the plank position, keep your spine perfectly straight, raise a foot off the ground, and hold it in place. Avoid tilting in either direction and switch legs every 5-10 seconds.
+\n\n
+Muscles worked: rectus abdominis, quads, shoulders, glutes, lower back
+Equipment needed: exercise mat
+Variation/Alternate Exercise: Forearm plank
+    </string>
+    <string name="abs4">
+Lying perfectly flat on the floor, hold a barbell above your chest. Keep your arms fixed and your legs together as you move the legs into an L-shaped position. Lower your legs down and to the side without having them touch the floor, all while keeping the barbell perfectly raised.
+\n\n
+Muscles worked: rectus abdominus, obliques
+Equipment needed: exercise mat, barbell
+Variation/Alternate Exercise: Hanging Knee Raises
+</string>
+    <string name="abs5">
+While regular crunches can hurt your back and your posture, reverse crunches stay true to their name by doing the opposite. That makes them one of the best abs exercises for men, though you’ll have to do a lot of them to really feel the burn. Keep your upper back straight on the ground as you lift your legs, glutes and lower back toward your chest. Repeat until sore.
+\n\n
+Muscles worked: rectus abdominis, obliques
+Equipment needed: exercise mat
+Variation/Alternate Exercise: Leg Raise
+</string>
+    <string name="chest1">
+Programming: 6 to 12 reps per set at 2 to 3 reps short of failure, e.g. RPE 7 to 8.
+
+Weight: Bodyweight
+
+The good-old classic push-up. This exercise is as popular as it is because a) it’s easy to understand; b) it engages multiple muscle groups, such as your pecs, triceps, anterior deltoids, and core muscles; and, c) it’s a very straightforward way to boost your overall strength.\n\n
+        Push-up instructions:
+Take a quadruped (table-top) position. Place your hands directly below your shoulders, your knees below your hips. Tuck your toes under. Your arms should be straight, and your head in a neutral position facing the floor.
+Straighten out one leg at a time, lifting the knees off the floor, into a plank.
+Once you’re in a plank position, retract the shoulder blades and unlock your elbows to slowly lower your body towards the ground. Keep your body in a straight line.
+Go as low as you can without releasing your body onto the ground.
+Push your palms into the ground and slowly straighten your elbows to raise yourself back into the starting position of plank.
+Protract your shoulder blades at the top to finish each rep.
+    </string>
+    <string name="chest2">
+Programming:  6 to 12 reps per set at 2 to 3 reps short of failure, e.g. RPE 7 to 8.
+        Weight: Bodyweight
+
+An adjustment from the basic push-up, decline push-ups are for those ready for something more challenging, as the exercise is performed with your feet positioned on an elevated surface. The focus is on the upper pectoral muscles and the front shoulder area. We like them because they are a good way to increase the challenge of this exercise for people who already feel comfortable with the classic push-up.
+ \n\n
+
+Decline push-up instructions:
+Kneel down with your back towards a higher solid surface, like a bench or a step.
+Place your hands on the ground at shoulder-width or a bit wider. Raise your feet on the table, bench, sofa, step, or any other higher surface.
+Engage your quads, core, and glutes.
+Lower your chest as near to the ground as possible without touching it. Stop when your elbows are around your ribcage. As you’re lowering down, look straight ahead and keep your  back and neck straight.
+Push yourself off the ground to return to the starting position, and then repeat.
+If you feel any pain in your shoulders, elbows, or wrists, stop with the exercise.
+    </string>
+    <string name="chest3">
+        Programming:  6 to 12 (primary) or 10 to 20 (secondary) reps per set at 2 to 3 reps short of failure, e.g. RPE 7 to 8.
+
+Weight: Bodyweight
+
+Incline push-ups are performed with your hands on an elevated surface such as a bench or a countertop. If the standard push-up is challenging for you, or you’d like to explore a higher rep range, incline push-ups are a great alternative.\n\n
+        Incline push-up instructions:
+Stand in front of the elevated surface like a bench or a step and stoop over by placing both hands on the surface. Make sure your fingers point forward. Keep your hands shoulder-width apart.
+Get into a plank position, one leg at a time. Keep your body straight and your head in alignment with your spine. Make sure that your lower back isn’t sinking and that your butt isn’t sticking out.
+Flex your arms and gradually lower your chest toward the elevated surface, keeping your elbows tucked in. Extend your arms to get back into the starting position.
+
+    </string>
+    <string name="chest4">
+Programming: 3 to 8 reps per set at 2 to 3 reps short of failure, e.g. RPE 7 to 8.
+
+Weight: Bodyweight
+
+Because they work one arm at a time, offset push-ups require more core control. Plus, they’re more challenging than a standard push-up since the elevated arm is at a mechanical disadvantage relative to the arm on the floor. This exercise is part of the progression towards a one-armed push-up. Similarly, it requires more force production out of the triceps, anterior deltoid, and pec muscles in the side that’s on the floor.\n\n
+        Offset push-up instructions:
+Begin in the standard push-up position on the floor, but lift one hand and place it on a higher, stable surface such as an exercise bench. Your other hand should be right underneath the shoulder and your feet should be about hip-width apart.
+Gradually lower yourself down to perform the exercise and then push up to return to a one-handed plank.
+    </string>
+    <string name="chest5">
+        Programming:  4 to 10 per set at 2 to 3 reps short of failure, e.g. RPE 7 to 8.
+
+Weight: Bodyweight
+
+By targeting “push muscles” such as the chest, shoulders, triceps, hips, and glutes and because of the fact the balance is slightly off, the one-leg push-up challenges people to work on their shoulder and core stability.\n\n
+        One-leg push-up instructions:
+Begin in a plank position and raise one leg off the ground. Tighten your glutes and keep your hands under your shoulders.
+Except for the raised leg, the other mechanics of the push-up remain the same — your legs should be straight, your elbows extended, and your head should be in a neutral position, with your eyes on the floor.
+Retract the shoulder blades and unlock the elbows, then slowly lower yourself towards the floor. Once you go as low as you can without losing your balance, you can get back to your starting position by straightening your elbows and pressing your hands into the ground with force.
+Repeat the exercise, alternating between legs
+    </string>
+    <string name="shoulder1">
+Why: The OG dumbbell shoulder-builder. Stand tall and press them up. Simple, but effective. Performing heavy standing movements also has a downstream effect on the rest of your physique, as you’re forced to stabilise your body and keep yourself braced and upright.\n\n
+  Clean a pair of dumbbells onto your shoulders. Take a breath, squeeze your glutes and create tension throughout your entire body (A). With no assistance from your legs, press both dumbbells up overhead (B). Lower them under slow control to your shoulders and repeat. Keep your ribcage locked down and avoid over arching at the lower back.
+    </string>
+    <string name="shoulder2">
+    Why: By using a little help from the legs to drive the dumbbells overhead, you’re able to go much heavier. However, by controlling them back down slowly during the eccentric (lowering) portion of the lift, where you’re naturally stronger, you’re able to eek out some more muscle-building bang for your buck.\n\n
+
+    lean the dumbbells onto your shoulders, palms facing in. Take a breath and brace your core (A). Dip at the knees and use your legs to help press your dumbbells overhead (B). Once locked out over head slowly lower the weights back down to your shoulders over a 3-4 second count.
+
+    </string>
+    <string name="shoulder3">
+    Why: The Z-press isn’t just a fantastic strict shoulder-builder, it works wonders for your entire torso as your body is forced to maintain a strong upright position, stabilising the torso, without any assistance from the hips. If you’re stuck with light weights, this is the pressing movement for you.\n\n
+
+    Take a seat on the floor with your legs outstretched, pushing the backs of your knees into the floor, holding a pair of dumbbells on your shoulders (A). Take a breath and brace your core, keeping your torso upright press your dumbbells overhead (B). Lower under control to your shoulders. Repeat.
+
+
+    </string>
+    <string name="shoulder4">
+    Why: Although some trainers warn of injury risks when performing the barbell upright row, dumbbells allow you a little more freedom of movement to work around and mitigate this. Just pay attention, and keep those weights under control.\n\n
+    Stand tall holding a pair of dumbbells at your waist, in front of your body (A). Keeping your trunk tight, pull the dumbbells up towards your chin, driving your elbows up and back (B). Slowly lower back down to your waist under complete control. Avoid excessive movement in your torso and ‘dropping’ the dumbbells too quickly.
+
+    </string>
+    <string name="shoulder5">
+    Why: By taking the bench down a notch from 90 degrees, you can put your body into a much more mechanically advantaged position for pressing, and one that also avoids over-stressing the shoulders.\n\n
+    Set a bench to an angle slightly below 90 degrees and take a seat, holding a pair of dumbbells on your shoulders (A). Take a breath and drive your feet into the ground, keeping your torso as tight to the bench as possible Press your dumbbells overhead (B). Lower under control to your shoulders. Repeat.
+
+    </string>
+
+    <string name="biceps1">
+Select two dumbbells, and wrap towels around each handle to thicken it. Another option is to use rubber-grip sleeves like Fat Gripz or Grip4orce. Keeping your upper arms stationary at your sides and your palms facing up, curl the weights.
+    </string>
+    <string name="biceps2">
+Attach a D-handle to the low pulley of a cable machine, grasp the handle in your left hand, and step forward (away from the machine) until there is tension on the cable and your arm is drawn slightly behind your body. Stagger your feet so your right leg is in front. Curl the handle but don not allow your elbow to point forward. Alternate sides.
+    </string>
+    <string name="biceps3">
+Sit at a preacher bench, and adjust the bench height so your armpits touch the top of the bench. Grasp an EZ-curl bar overhand at shoulder-width. Curl it up, keeping the backs of your arms against the bench. Take three seconds to lower the bar back down, flexing your triceps as you do it (as if you were performing a cable pushdown).
+    </string>
+    <string name="biceps4">
+Grasp the bar overhand (aka prone grip) at whatever width is comfortable. Keeping your upper arms against your sides, curl the bar.
+    </string>
+    <string name="biceps5">
+Grasp the bar with hands wider than shoulder-width—if you’re using an Olympic bar, your pinkies should be on the outside knurling. Perform curls.vz
+    </string>
+
+    <string name="triceps1">
+        Triceps dips help to work the strength and endurance of your triceps, as well as your shoulder, back, and core muscles. This can contribute to overall balance and posture. This exercise does not require any weights, just a chair or bench.
+
+How to do: Sit on the bench and place your palms on the seat at your sides, close to your thighs. Keep your arms on the seat and lift your bottom from the chair, inching your body forward so that you are hovering in front of the seat. Keep your legs straight, then bend your elbows, lowering your body as far as possible to the ground until your elbows form a 90-degree angle. Your body weight should be supported by your arms.  Push your body upwards to restart the movement. Do 3 sets of 10 to 12 repetitions. If the exercise is very difficult, you can perform it with your knees bent and bring your feet closer to your body.
+
+    </string>
+    <string name="triceps2">
+        How to do: Stand with your feet hip-width apart, hold the weight with both hands behind your head, with your elbows bent, forming a 90-degree angle. Lift the weight, stretching your arms upwards and slowly lower your arms back again behind your head. It is important to keep your abdomen contracted and your back straight.
+
+Be sure to time the movement with your breathing - exhale when lifting the weight and inhale when lowering. If it is difficult to do the exercise while standing, you can also complete it while sitting, being sure to keep your spine straight. Another variant of this exercise is to use a weight in each hand. This exercise can be done in 2 to 3 sets of 10 to 12 repetitions.
+    </string>
+    <string name="triceps3">
+The skull crusher, or lying triceps extension is another good option for the triceps. It improves strength and resistance, while also contributing to muscle gains. This exercise is done using weights such as dumbbells, a barbell or even plastic bottle filled with sand.
+
+How to do: Lie on the floor and bend your legs slightly, so that your feet are flat on the floor. Holding a weight in each hand or one weight weight both hands, hold the weight above your head, pointing towards the ceiling. Then bend your elbows and lower the weight above your forehead. Return to starting position. Repeat this movement 10 to 12 times doing 2 to 3 sets.
+    </string>
+    <string name="triceps4">
+How to do: Stand with your knees slightly bent and lean forward with your back straight. Hold the weight with one hand, position your arm straight in line with your body. Bend the arm to bring the weight forward, making a 90-degree angle at the elbow. Another way to do this exercise is to hold a weight in each hand and perform the movement with both arms at the same time. If it is difficult to do the movement while standing, you can rest one of your knees on a bench or chair, for example. Repeat this movement 8 to 12 times and repeat with the other arm. This exercise can be done for 3 to 4 sets.
+    </string>
+    <string name="triceps5">
+The lateral raise works the strength and endurance of the triceps, in addition to the shoulder muscles. It can contribute to the improvement of overall posture and balance. This exercise must be done using weights such as dumbbells, although you can make your own weights, like a plastic bottle with water or sand or backpacks with 1 or 2 kg of rice or beans in each one.
+
+How to do: Stand with your legs shoulder-width apart and slightly bend your knees. Hold a weight in each hand, with your arms aligned with your body. Slowly raise your arms to shoulder height and slowly return to the starting position. It is important to contract your abdomen, and to inhale when lowering your arms and exhale when you raise your arms. Do 2 to 3 sets of 10 to 12 repetitions.
+    </string>
+    <string name="weightlosstitle">
+        How Many Calories Do I Burn a Day? (Use Our Calculator to Find Out)
+
+    </string>
+
+    <string name="weightloss">
+        Knowing how many calories you burn a day is important for achieving specific health goals, like gaining weight and losing weight. The body requires a minimum amount of energy to ensure mechanisms in the body, like maintaining a heart rate and breathing), function normally. This energy can be measured in calories.
+
+To calculate the amount of calories you burn in a day, you can use the formula provided by the World Health Organization. This formula calculates the energy used for bodily functions while taking gender, current weight, age and activity level into consideration. The amount of calories you burn per day is also referred to as your total daily energy expenditure (TDEE).
+
+Once you know how many calories you burn a day, the next step is to adjust your eating habits and activity status to help you reach your health goals. You are advised to speak to a registered dietitian for an assessment and a customized meal plan that incorporates your preferences and the calories you burn per day.
+
+    </string>
+    <string name="diettitle">
+        Fruit Diet: How to Start, Weight Loss and What to Eat (w/ Meal Plan)
+    </string>
+    <string name="diet">
+
+        A fruit diet is characterized by the increased inake of fruits along with vegetables, whey protein and lean protein. This diet is rich in fiber, which can increase bowel movements, reduce abdominal bloating and keep you full. These factors can all play an important role in weight loss.
+
+The fruit diet was developed by Registered Dietitian, Jay Robb, who stipulates that you should adhere to this diet for 3 day. He states that these days can give the digestive system a break from consuming processed foods. This helps to detox the body and boost fat burning.
+
+However, there are no scientific studies available that prove the benefits of the fruit diet for health or weight loss. Therefore, if you are thinking about starting a fruit diet, you should consult a registered dietitian for a complete assessment and customized meal plan.
+
+
+        How to start
+The fruit diet should be followed for only 3 consecutive days. It proposes a total intake of 900 to 1000 calories per day.
+
+On the first day of the diet, you should only consume whey protein, vegetables and healthy fats. On the second and third days, you can eat fruit and 100 to 125 g of lean proteins.
+
+The consumption of lean protein in this diet helps to preserve muscle mass, while the fruits and vegetables provide fiber, vitamins and minerals that are important for managing hunger and bodily functions.
+
+How to achieve weight loss
+It is believed that the fruit diet can lead to a weight loss of 9 kg (or 20 lb) in 3 days. However, weight loss, which is the same as losing body fat, is only possible if you maintain a low-calorie diet for at least 7 days.
+
+The fruit diet can help to eliminate excess body fluid and improve bowel movements, which can lead to reduced abdominal swelling and waist circumference.
+
+What to eat
+The foods allowed in the fruit diet are:
+
+Fresh and organic fruits, such as papaya, strawberries, bacuri, melon, banana, pineapple, apple and avocado
+Fresh and organic vegetables, preferably raw, such as spinach, broccoli, carrots, kale, chayote, cucumber and tomatoes
+Lean proteins such as chicken, fish, eggs, turkey and tofu;
+Healthy fats, such as avocado, olive oil or flaxseed oil;
+Whey protein
+The creator of this diet also recommends exercising at a low intensity, like walking or stretching. You should also aim to drink around 12 glasses of water per day.
+
+You should also eat your meals and snacks  every 2 hour between the hours of 8:00 am and 4:00 pm.
+
+What to avoid
+Foods that should not be consumed during the fruit diet include:
+
+Carbohydrates such as rice, pasta, wheat flour, bread, cakes, cookies and pasta
+Sweets and sugar of all types, such as chocolates, cakes and cookies
+Processed meats such as sausage, sausage, mortadella, bacon, salami, ham and turkey breast
+Processed food such as ready-made juices, soda, canned food, powdered seasonings, vegetable and meat broth
+Salt and high salt foods such as dressings, Worcestershire sauce, soy sauce and frozen ready-to-eat meals;
+Drinks such as soda, alcoholic drinks, coffee, black tea and green tea.
+In addition to the foods listed, you should also avoid taking dietary supplements when on a fruit diet.
+    </string>
+    <string name="nutritionaltitle">
+Vitamin B3 (Niacin): Health Benefits, Foods and Daily Amount
+
+    </string>
+    <string name="nutritional">
+Vitamin B3, also known as niacin, helps to regulate energy metabolism. It converts energy from carbohydrates, fats and proteins into energy to be used by cells.
+
+Vitamin B3, which is found in the form of nicotinic acid or nicotinamide, also acts as an antioxidant, and participates in the production of hormones and in the repair of DNA.
+
+Niacin can be transformed in the body by ingesting tryptophan, however, it is mainly obtained through the consumption of foods such as chicken, red meat, fish or avocado. It can also be consumed in the form of supplements.
+Health benefits
+Vitamin B3 consumption is associated with the following health benefits:
+
+Regulates energy metabolism, as it transforms the energy present in carbohydrates, proteins and fats into energy for the bodys cells
+Maintains cellular health, because it regulates processes such as cellular communication, DNA formation and repair
+Strengthens the immune system, as it acts as an antioxidant and protects defense cells against damage from free radicals
+Reduces LDL and triglyceride levels, as it prevents the oxidation of fat cells, which reduces the production of triglycerides and the production of fat in the liver;
+Participates in the formation of cholesterol, thus helping in the production of hormones such as adrenaline and noradrenaline.
+Furthermore, vitamin B3 could also help prevent cancer, due to its antioxidant action that helps fight free radicals. However, more studies are needed to confirm this benefit.
+
+Foods rich in niacin
+Vitamin B3, or niacin, is found in both animal sources of food (e.g. chicken, beef, eggs and fish) and plant-based sources (e.g. brown rice, whole wheat flour, nuts, beans, chickpeas, broccoli, avocado and tomato).
+
+Tryptophan is also another source of vitamin B3, because this amino acid can be converted to nicotinamide in the liver. Some foods rich in tryptophan include eggs, tofu, almonds, bananas and cashews. Check-out a complete list of foods with tryptophan that you can add to your diet.
+    </string>
+    <string name="foodtitle">
+
+        Are Bananas Good For You? More than 10 Health Benefits and Nutritional Info
+
+    </string>
+    <string name="food">
+        Bananas are generally good for you, as they contain several health benefits, such as providing the body with energy, reducing blood pressure, preventing muscle cramps and promoting serotonin production to combat depression and improve your mood.
+
+These benefits are due to the fact that bananas are rich in carbohydrates, fiber, potassium and magnesium, as well as B vitamins and vitamin C.
+
+Furthermore, this fruit is very versatile, and can be consumed ripe or unripe, raw or cooked, and whole or mashed. It can be used in the preparation of sweet and savory dishes.
+Health benefits
+The main health benefits of bananas are:
+
+1. Regulating bowel movements
+Bananas help to regulate bowel function, as they are rich in fiber and can help to relieve constipation (especially when consumed very ripe).
+
+Furthermore, bananas, when consumed unripe, can help to treat diarrhea, as they help reduce the frequency of bowel movements. Unripe bananas increase the absorption of water and electrolytes in the intestines, preventing complications like dehydration.
+
+2. Managing your weight
+Bananas, especially when they are unripe, promote a decrease in appetite, as they are rich in fibers that speed-up food digestion time. They are a great fruit for managing weight, as long as they are consumed in moderation and incorporated into a balanced and healthy diet.
+
+3. Lowering blood pressure
+Bananas are rich in magnesium and potassium, minerals that promote the relaxation of blood vessels and facilitate blood circulation. Therefore bananas can help to prevent and lower blood pressure. Furthermore, the potassium in bananas can promote the elimination of excess sodium circulating in the blood through urine.
+
+4. Preventing muscle cramps
+Bananas are rich in potassium and magnesium, which are important minerals for electrical conduction, contraction and muscle recovery. Bananas can therefore help to prevent muscle cramps and improve physical performance.
+
+
+5. Improving mental health
+Bananas contain tryptophan, an amino acid that is essential for the formation of hormones that improve your mood and help you relax. They also contain magnesium, a mineral that prevents depression and reduces anxiety levels to improve overall mood.
+
+    </string>
+
+
     <string name="underweight">"your Body Mass Index (BMI) is under 18.5, it's important to focus on both nutrition and exercise to gain weight in a healthy manner. Here are some recommendations:\n\n"
         <b>Nutrition\n</b>
         "1. Increase Caloric Intake:\n"
@@ -31,9 +312,10 @@
         "   *Monitor Progress: Keep track of your weight and body\n     composition to see how your body responds to these    \n changes.";</string>
 
     <string name="healthy_weight_management_guide">
-        "If your BMI falls within the range of 25.0–29.9, focusing on healthy weight management through balanced nutrition and regular exercise is essential. Here’s how to approach it with Ethiopian cuisine.\n\n"
+        "If your BMI falls within the range of 25.0–29.9, focusing on healthy weight management through balanced nutrition and regular exercise is essential.
+        Here’s how to approach it with Ethiopian cuisine.\n\n"
         "             Nutrition with Ethiopian Foods:\n"
-        "1.Portion Control:"
+        "1. Portion Control:"
         "     Be mindful of portion sizes, especially with calorie-dense foods. Use smaller plates to help manage portions.\n"
         "2.Injera:"
         "     Use injera as a base but pair it with smaller portions of stews. Opt for whole grain or teff injera when possible.\n"

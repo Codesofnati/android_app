@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Dait_and_Fitness"
+    tools:context=".Mukera.Dait_and_Fitness"
     android:orientation="vertical"
     android:background="@color/white"
     android:paddingTop="40dp"><!-- res/layout/activity_main.xml -->
@@ -77,7 +77,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-
             android:background="@drawable/shape"
             android:visibility="gone">
 
@@ -124,7 +123,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-
             android:background="@drawable/shape"
             android:visibility="gone">
 

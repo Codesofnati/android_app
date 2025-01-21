@@ -1,0 +1,51 @@
+<!-- activity_daily_tracker.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Daily Fitness Tracker"
+        android:textSize="24sp"
+        android:layout_centerHorizontal="true"/>
+
+    <!-- Input Fields -->
+    <EditText
+        android:id="@+id/stepsInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Steps Count"
+        android:inputType="number"
+        android:layout_below="@id/title"/>
+
+    <EditText
+        android:id="@+id/caloriesInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Calories Burned"
+        android:inputType="numberDecimal"
+        android:layout_below="@id/stepsInput"/>
+
+    <!-- Button to Save Data -->
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save Data"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/caloriesInput"/>
+
+    <!-- Display Daily Progress -->
+    <TextView
+        android:id="@+id/progressTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="18sp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/saveButton"/>
+
+</RelativeLayout>

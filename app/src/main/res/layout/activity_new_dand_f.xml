@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".newDandFActivity">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@drawable/shape"
+        android:elevation="20dp"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/baseline_person_24" />
+
+            <TextView
+                android:id="@+id/profile"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:text="Profile"
+                android:textSize="16dp"
+                android:padding="10dp"
+                android:gravity="center"
+                android:textColor="@color/blue"
+                android:textStyle="bold"
+                android:clickable="true"
+                android:focusable="true" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="|\n|\n|    "
+            android:textSize="15dp"
+            />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+
+                android:src="@drawable/baseline_list_alt_24"
+                />
+            <TextView
+                android:id="@+id/tracker"
+                android:layout_width="140dp"
+                android:layout_height="match_parent"
+                android:text="Tracker"
+                android:textSize="16dp"
+                android:padding="10dp"
+                android:textColor="@color/blue"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:clickable="true"
+                android:focusable="true" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@drawable/shape"
+        android:elevation="20dp"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/imm" />
+
+            <TextView
+                android:id="@+id/fitness"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:text="Fitness"
+
+                android:textSize="16dp"
+                android:padding="10dp"
+                android:gravity="center"
+                android:textColor="@color/blue"
+                android:textStyle="bold"
+                android:clickable="true"
+                android:focusable="true" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="|\n|\n|     "
+            android:textSize="15dp"
+            />
+        <LinearLayout
+            android:layout_width="wrap_content"
+
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="50dp"
+                android:src="@drawable/food"
+                />
+            <TextView
+                android:id="@+id/diet"
+                android:layout_width="140dp"
+                android:layout_height="match_parent"
+                android:text="Diet"
+                android:textSize="16dp"
+                android:padding="10dp"
+                android:textColor="@color/blue"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:clickable="true"
+                android:focusable="true" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+    <!-- Fitness List Layout -->
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numColumns="2"
+        android:horizontalSpacing="6dp"
+        android:verticalSpacing="6dp"
+        android:background="@color/white"
+        android:visibility="visible"
+        android:id="@+id/Fmy_grid_view"/>
+    <!-- Diet List Layout -->
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numColumns="2"
+        android:background="@color/white"
+        android:horizontalSpacing="6dp"
+        android:verticalSpacing="6dp"
+        android:id="@+id/Dmy_grid_view"/>
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numColumns="2"
+        android:horizontalSpacing="6dp"
+        android:verticalSpacing="6dp"
+        android:background="@color/white"
+        android:visibility="visible"
+        android:id="@+id/profile_grid_view"/>
+    <!-- Diet List Layout -->
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numColumns="2"
+        android:background="@color/white"
+        android:horizontalSpacing="6dp"
+        android:verticalSpacing="6dp"
+        android:id="@+id/tracker_grid_view"/>
+
+
+</LinearLayout>

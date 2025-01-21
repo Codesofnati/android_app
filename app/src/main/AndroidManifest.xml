@@ -1,29 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
+    xmlns:tools="http://schemas.android.com/tools" >
 
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/img"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Health"
-        tools:targetApi="31">
+        tools:targetApi="31" >
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
         <activity
             android:name=".Welcoming_page"
             android:exported="false" />
         <activity
-            android:name=".mukera"
+            android:name=".Diet.Diet.DietActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Fitness.Biceps.BicepsSeparator"
+            android:exported="false" />
+        <activity
+            android:name=".Fitness.Triceps.TricepsSeparator"
+            android:exported="false" />
+        <activity
+            android:name=".Fitness.Shoulder.ShoulderSeparator"
+            android:exported="false" />
+        <activity
+            android:name=".Fitness.Chest.ChestSeparator"
+            android:exported="false" />
+        <activity
+            android:name=".Fitness.Abs.AbsSeparator"
+            android:exported="false" />
+        <activity
+            android:name=".Fitness.Chest.ChestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Fitness.Back.BackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Fitness.Biceps.BicepsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Fitness.Triceps.TricepsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Fitness.Abs.AbsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Fitness.Shoulder.ShoulderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Mukera.Dait_and_Fitness"
+            android:exported="false" />
+        <activity
+            android:name=".newDandFActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Mukera.mukera"
             android:exported="false" />
         <activity
             android:name=".Home"
             android:exported="false" />
         <activity
-            android:name=".Dait_and_Fitness"
-            android:exported="true">
+            android:name=".SplashActivity2"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

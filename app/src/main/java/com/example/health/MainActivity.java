@@ -10,10 +10,12 @@ import android.widget.EditText;
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.health.Database.DatabaseHelper;
+
 public class MainActivity extends AppCompatActivity {
     EditText name, weight, height, age;
     Button btnRegister;
-    DatabaseHelper databaseHelper;
+    DatabaseHelper databaseHelper, databaseHelper1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,6 +43,8 @@ public class MainActivity extends AppCompatActivity {
                 String height1 = height.getText().toString();
                 String age1 = age.getText().toString();
 
+
+
                 // Insert data into the database
                 databaseHelper.addName(name1, weight1, height1, Integer.parseInt(age1));
 
@@ -54,6 +58,9 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("height", height1);
                 intent.putExtra("age", age1);
                 startActivity(intent);
+
+                // Finish MainActivity
+                 finish();
             }
         });
 
